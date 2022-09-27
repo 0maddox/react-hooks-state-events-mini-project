@@ -10,7 +10,6 @@ function NewTaskForm() {
       <label>
         Category
         <select name="category">
-          {/* render <option> elements for each category here */}
         </select>
       </label>
       <input type="submit" value="Add task" />
